@@ -23,7 +23,12 @@ For the ML Model, open the provided code in PyCharm and run it directly. This co
 
 ## Preview
 
-🌐 Web Interface:
+**🌐 Web Interface:**
+![image](https://github.com/ShreeveshKumar/Home-Vision/assets/115733778/673e9843-f7af-49b1-a089-2cd28b4d29ce)
+
+
+
+
 !**Mobile App:**
 
 ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/d5a002db-6a49-4562-85f7-c0280b3d2ec7)    ![image](https://github.com/ShreeveshKumar/HOME_VISION/assets/115733778/3d7c0756-6ec6-42b9-981d-2317df2af2f7)
