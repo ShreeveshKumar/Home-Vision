@@ -7,7 +7,7 @@ Home Vision is a comprehensive project that allows you to visualize houses in 3D
 
 ### Web
 
-The Web component is developed using the MERN (MongoDB, Express.js, React, Node.js) stack. To get started, simply clone the repository and run `npm i`. After installation, launch the application with `npm start`. Explore the web interface to interact with 3D house models and select blueprints.
+The Web component is developed using the HTML,CSS , JS. To get started, simply clone the repository and run `npm i`. After installation, launch the application with `npm start`. Explore the web interface to interact with 3D house models and select blueprints.
 
 ### Blueprint
 
